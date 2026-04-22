@@ -1,5 +1,6 @@
 {
   "name": "RichAgain",
+  "website": "https://m.blog.naver.com/healaidchain",
   "description": "RAG Token",
   "explorer": "https://bscscan.com/token/0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
   "type": "BEP20",
@@ -14,7 +15,7 @@
     },
     {
       "name": "youtube",
-      "url": "https://www.youtube.com/@HealAidChain-Official"
+      "url": "https://youtube.com/@RichAgain0423"
     }
   ],
   "tags": [
