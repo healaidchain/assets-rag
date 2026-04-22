@@ -1,0 +1,11 @@
+{
+  "name": "RichAgain",
+  "website": "https://",
+  "description": "RAG Token",
+  "explorer": "https://bscscan.com/token/0xe1e8e5402195b48206d162fc5f9d250c289a6c9e",
+  "type": "BEP20",
+  "symbol": "RAG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe1e8e5402195b48206d162fc5f9d250c289a6c9e"
+}
