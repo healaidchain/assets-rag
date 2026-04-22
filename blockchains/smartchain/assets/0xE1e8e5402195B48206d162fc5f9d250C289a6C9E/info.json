@@ -1,0 +1,27 @@
+{
+  "name": "RichAgain",
+  "website": "https://threads.com/healaidchain",
+  "description": "RAG Token",
+  "explorer": "https://bscscan.com/token/0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
+  "type": "BEP20",
+  "symbol": "RAG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/healaidchain"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/healaidchain/"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@HealAidChain-Official"
+    }
+  ],
+  "tags": ["defi"],
+  "holders": 10200
+}
