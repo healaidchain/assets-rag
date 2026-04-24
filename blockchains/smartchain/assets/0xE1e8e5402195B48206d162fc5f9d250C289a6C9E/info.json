@@ -1,7 +1,7 @@
 {
   "name": "RichAgain",
   "website": "https://healaidchain.github.io/rag-token/",
-  "description": "RichAgain (RAG) is a community-driven token on BNB Chain focused on decentralized trading and community growth.",
+  "description": "RichAgain (RAG) is a community-driven token on BNB Chain focused on decentralized trading and strong community engagement.",
   "explorer": "https://bscscan.com/token/0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
   "type": "BEP20",
   "symbol": "RAG",
@@ -10,8 +10,12 @@
   "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
   "links": [
     {
-      "name": "blog",
+      "name": "website",
       "url": "https://healaidchain.github.io/rag-token/"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://www.notion.so/RichAgain-RAG-Whitepaper-34c15fc028bc80fc9903d08e6c4d4630"
     },
     {
       "name": "twitter",
@@ -21,14 +25,8 @@
       "name": "telegram",
       "url": "https://t.me/RichAgainOfficial1"
     },
-    {
-      "name": "discord",
-      "url": "https://discord.gg/RJmgkSAtQ"
-    },
-    {
-      "name": "github",
-      "url": "https://github.com/healaidchain/rag-token"
-    }
   ],
-  "tags": ["defi"]
+  "tags": [
+    "defi"
+  ]
 }
