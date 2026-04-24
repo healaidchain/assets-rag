@@ -10,7 +10,7 @@
   "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
   "links": [
     {
-      "name": "website",
+      "name": "blog",
       "url": "https://healaidchain.github.io/rag-token/"
     },
     {
@@ -26,12 +26,12 @@
       "url": "https://discord.gg/RJmgkSAtQ"
     },
     {
-      "name": "github",
-      "url": "https://github.com/healaidchain/rag-token"
+      "name": "whitepaper",
+      "url": "https://www.notion.so/RichAgain-RAG-Whitepaper-34c15fc028bc80fc9903d08e6c4d4630"
     },
     {
-      "name": "medium",
-      "url": "https://www.notion.so/RichAgain-RAG-Whitepaper-34c15fc028bc80fc9903d08e6c4d4630"
+      "name": "github",
+      "url": "https://github.com/healaidchain/rag-token"
     }
   ],
   "tags": ["defi"]
