@@ -7,5 +7,21 @@
   "symbol": "RAG",
   "decimals": 18,
   "status": "active",
-  "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E"
+  "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/healaidchain/assets-rag"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RichAgainOfficial1"
+    }
+  ],
+  "tags": [
+    "defi",
+    "bsc",
+    "community"
+  ],
+  "holders": 25
 }
