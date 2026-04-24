@@ -1,25 +1,11 @@
 {
   "name": "RichAgain",
-  "website": "https://m.blog.naver.com/healaidchain",
-  "description": "RAG Token",
+  "website": "https://healaidchain.github.io/rag-token/",
+  "description": "RichAgain (RAG) is a community-driven token on BNB Chain.",
   "explorer": "https://bscscan.com/token/0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
   "type": "BEP20",
   "symbol": "RAG",
   "decimals": 18,
   "status": "active",
-  "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E",
-  "links": [
-    {
-      "name": "twitter",
-      "url": "https://x.com/healaidchain"
-    },
-    {
-      "name": "youtube",
-      "url": "https://youtube.com/@RichAgain0423"
-    }
-  ],
-  "tags": [
-    "defi"
-  ],
-  "holders": 10200
+  "id": "0xE1e8e5402195B48206d162fc5f9d250C289a6C9E"
 }
